@@ -1,0 +1,4 @@
+# Ignore formatting
+**/main.css
+dx-utils/apex-scripts
+node_modules
